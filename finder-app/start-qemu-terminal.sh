@@ -1,6 +1,6 @@
 # !/bin/bash
 # Script to open qemu terminal.
-# Author: Siddhant Jajoo.
+# Author: Mohammed Khalaf.
 
 set -e
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Dependency installation script for kernel build.
-# Author: Siddhant Jajoo.
+# Author: Mohammed Khalaf.
 
 
 sudo apt-get install -y libssl-dev
